@@ -1,0 +1,27 @@
+fieldset
+{
+	width:800px;
+	text-align: center;	
+	}
+label.field
+{
+	text-align: left;	
+	width: 100px;
+	float:left;
+	font-weight: bold;
+}
+input.textbox-300 
+{
+	width:300px;
+	float:right;
+}
+fieldset p
+{
+	clear:both;
+	padding: 5px;
+}
+label span
+{
+	color: red;
+	font-weight:bold;
+}

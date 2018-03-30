@@ -1,0 +1,33 @@
+h1
+{
+	color : #800517
+}
+logoutLblPos{
+
+   position:fixed;
+   right:10px;
+   top:5px;
+}
+fieldset
+{
+	width:500px;
+	text-align: left;	
+	}
+	
+fieldset p
+{
+	clear:both;
+	padding: 5px;
+}
+
+input.textbox-300 
+{
+	width:300px;
+	float:right;
+}
+
+label span
+{
+	color:red;
+	font-weight:bold;
+}
